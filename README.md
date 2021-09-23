@@ -29,7 +29,7 @@ I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahyeonjoung&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyeonjoung&hide=TeX&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
 
