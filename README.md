@@ -32,6 +32,4 @@ I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahyeonjoung&count_private=true&show_icons=true&include_all_commits=true)
-
 
