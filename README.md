@@ -3,7 +3,7 @@
 I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer science from [Ewha Woman's University](http://www.ewha.ac.kr/ewha/index.do). I am a FrontEnd Engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Find out more about me & feel free to connect with me here:
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yeon-code.tistory.com/)](https://yeon-code.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahyeon0529@gmail.com)](mailto:ahyeon0529@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ahyeon05291@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahyeon0529@gmail.com)](mailto:ahyeon0529@gmail.com)
 
 
 
