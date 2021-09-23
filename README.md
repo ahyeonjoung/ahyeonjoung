@@ -5,6 +5,8 @@ I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yeon-code.tistory.com/)](https://yeon-code.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahyeon0529@gmail.com)](mailto:ahyeon0529@gmail.com)
 
+
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,6 +32,6 @@ I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahyeonjoung&count_private=true&show_icons=true&include_all_commits=true)
 
 
