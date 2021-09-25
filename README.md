@@ -6,7 +6,7 @@ I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer
 [![Gmail Badge](https://img.shields.io/badge/-ahyeon-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahyeon0529@gmail.com)](mailto:ahyeon0529@gmail.com)
 
 
-
+ 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
