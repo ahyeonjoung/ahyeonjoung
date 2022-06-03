@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
+## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
 
 I am Ah Yeon Joung, currently pursuing my bachelor's degree majoring in computer science from [Ewha Womans University](http://www.ewha.ac.kr/ewha/index.do). I am a FrontEnd Engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Find out more about me & feel free to connect with me here:
 
